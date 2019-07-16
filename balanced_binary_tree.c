@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 /*平衡二叉树结构*/
 typedef struct btree{
 	void *value;
