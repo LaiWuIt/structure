@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-// /*平衡二叉树结构*/
+/*平衡二叉树结构*/
 typedef struct btree{
 	void *value;
 	int bf;															/*平衡因子*/
