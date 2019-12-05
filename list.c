@@ -5,6 +5,7 @@
 #define LIST_INSERT_BEFORE	0
 #define listLength(l) ((l)->len)
 
+
 /*单向链表结构*/
 typedef struct lnode{
 	void *value;
